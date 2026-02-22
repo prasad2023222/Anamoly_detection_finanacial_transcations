@@ -1,0 +1,6 @@
+flask
+fastapi
+pandas
+numpy 
+matplotlib
+scikit-learn
